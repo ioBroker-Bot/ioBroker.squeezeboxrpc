@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "squeezeboxrpc",
-    "version": "1.6.3",
+    "version": "1.6.4",
     "news": {
+      "1.6.4": {
+        "en": "test remove node 18,extend to node 24\nupdate packages",
+        "de": "test entfernen node 18,extend to node 24\nupdate-pakete",
+        "ru": "тест удалить узел 18, расширить узел 24\nобновление пакетов",
+        "pt": "teste remover o nó 18, extend ao nó 24\natualizar pacotes",
+        "nl": "test verwijder node 18, extend naar node 24\npakketten bijwerken",
+        "fr": "test enlever le noeud 18,extendre au noeud 24\nmettre à jour les paquets",
+        "it": "prova rimuovere nodo 18, estend to node 24\npacchetti di aggiornamento",
+        "es": "prueba eliminar nodo 18,extender a nodo 24\nactualizar paquetes",
+        "pl": "test usunąć węzeł 18, rozszerzyć na węzeł 24\naktualizacja pakietów",
+        "uk": "test remove node 18,потенд в вузол 24\nоновлення пакетів",
+        "zh-cn": "测试去除节点 18, 延伸至节点 24\n更新软件包"
+      },
       "1.6.3": {
         "en": "test remove node 18,extend to node 24\nupdate packages",
         "de": "test entfernen node 18,extend to node 24\nupdate-pakete",
